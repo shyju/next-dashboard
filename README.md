@@ -1,1 +1,1 @@
-# next-dashboard
+# next-dashboard for praticing NextJS
